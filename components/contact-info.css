@@ -1,0 +1,80 @@
+.contact-info-container {
+  width: 936px;
+  height: 563px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+.contact-info-nameinput {
+  top: 12px;
+  left: 172px;
+  position: absolute;
+  align-self: flex-start;
+  text-align: center;
+}
+.contact-info-textinput {
+  top: 12px;
+  left: 465px;
+  position: absolute;
+  text-align: center;
+}
+.contact-info-textinput1 {
+  top: 75px;
+  left: 171px;
+  position: absolute;
+  text-align: center;
+}
+.contact-info-textinput2 {
+  top: 75px;
+  right: 195px;
+  position: absolute;
+  text-align: center;
+}
+.contact-info-textinput3 {
+  top: 135px;
+  right: 193px;
+  width: 570px;
+  position: absolute;
+  text-align: center;
+}
+.contact-info-textinput4 {
+  top: 196px;
+  right: 193px;
+  width: 570px;
+  position: absolute;
+  text-align: center;
+}
+.contact-info-form {
+  width: 200px;
+  height: 100px;
+  display: flex;
+}
+.contact-info-button {
+  top: 413px;
+  left: 357px;
+  width: 193px;
+  height: 56px;
+  position: absolute;
+  font-size: 35px;
+  box-shadow: 5px 5px 10px 0px #000000;
+  background-color: #ff0000;
+}
+.contact-info-textinput5 {
+  top: 255px;
+  right: 193px;
+  width: 570px;
+  position: absolute;
+  text-align: center;
+  text-transform: capitalize;
+}
+.contact-info-textinput6 {
+  top: 315px;
+  right: 193px;
+  width: 570px;
+  position: absolute;
+  text-align: center;
+  text-transform: capitalize;
+}
+
