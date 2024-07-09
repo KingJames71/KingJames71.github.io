@@ -10,12 +10,6 @@
   flex-direction: column;
   padding-bottom: var(--dl-space-space-oneandhalfunits);
 }
-.feature-card-image {
-  width: 60px;
-  height: 60px;
-  object-fit: cover;
-  margin-bottom: var(--dl-space-space-twounits);
-}
 .feature-card-text {
   text-align: center;
   margin-bottom: var(--dl-space-space-unit);

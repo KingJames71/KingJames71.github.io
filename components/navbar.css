@@ -146,6 +146,9 @@
 .navbar-root-class-name1 {
   background-color: #D9D9D9;
 }
+.navbar-root-class-name2 {
+  background-color: #D9D9D9;
+}
 @media(max-width: 767px) {
   .navbar-nav {
     display: none;
